@@ -119,16 +119,6 @@ function auto_safeconvert() {
     var a_to_vh = false;
     var j = 0;
     /*TAMBAHIN DISINI TOD*/
-    var daftarPostingan = [
-      "http://lurusin-tod.blogspot.com/2018/09/alibabas-jack-ma-says-us-china-trade.html",
-      "http://lurusin-tod.blogspot.com/2018/09/how-to-get-cheapest-car-insurance-when.html",
-      "http://lurusin-tod.blogspot.com/2018/09/how-does-a-no-claims-bonus-save-you-money.html",
-      "http://lurusin-tod.blogspot.com/2018/09/how-to-save-with-multi-car-insurance.html",
-      "http://lurusin-tod.blogspot.com/2018/09/what-is-car-insurance.html",
-      "http://lurusin-tod.blogspot.com/2018/09/cheap-auto-insurance.html"
-    ];
-
-    var randomPostingan = daftarPostingan[Math.floor(Math.random()*daftarPostingan.length)];
     var a_to_vi = "";
     for (var i = 0; i < a_to_va; i++) {
         a_to_vh = false;
@@ -142,7 +132,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "https://wpmini.blogspot.com/2018/09/dokumentasi.htmlhttps://wpmini.blogspot.com/2018/09/dokumentasi.html?url=" + encryptedUrl;
+            a_to_ve[i].href = "https://wpmini.blogspot.com/2018/09/dokumentasi.html?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
