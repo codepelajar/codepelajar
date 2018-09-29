@@ -120,14 +120,14 @@ function auto_safeconvert() {
     var j = 0;
     /*TAMBAHIN DISINI TOD*/
     var daftarPostingan = [
-      "https://forexchangelink.blogspot.com/2018/09/4xp-Forex-Place-Review.html",
-      "https://forexchangelink.blogspot.com/2018/09/7-Reasons-to-Trade-Forex.html",
-      "https://forexchangelink.blogspot.com/2018/09/Do-you-Forecast-Forex-or-Use-Reality-Trading.html",
-      "https://forexchangelink.blogspot.com/2018/09/forex-exit-strategy.html",
-      "https://forexchangelink.blogspot.com/2018/09/forex-momentum-indicators.html",
-      "https://forexchangelink.blogspot.com/2018/09/forex-scalping-fundamental-explanation.html",
-      "https://forexchangelink.blogspot.com/2018/09/forex-strategy-and-profits.html",
-      "https://forexchangelink.blogspot.com/2018/09/forex-trading-falling.html"
+      "http://forexchangelink.blogspot.com/2018/09/4xp-Forex-Place-Review.html",
+      "http://forexchangelink.blogspot.com/2018/09/7-Reasons-to-Trade-Forex.html",
+      "http://forexchangelink.blogspot.com/2018/09/Do-you-Forecast-Forex-or-Use-Reality-Trading.html",
+      "http://forexchangelink.blogspot.com/2018/09/forex-exit-strategy.html",
+      "http://forexchangelink.blogspot.com/2018/09/forex-momentum-indicators.html",
+      "http://forexchangelink.blogspot.com/2018/09/forex-scalping-fundamental-explanation.html",
+      "http://forexchangelink.blogspot.com/2018/09/forex-strategy-and-profits.html",
+      "http://forexchangelink.blogspot.com/2018/09/forex-trading-falling.html"
     ];
 
     var randomPostingan = daftarPostingan[Math.floor(Math.random()*daftarPostingan.length)];
