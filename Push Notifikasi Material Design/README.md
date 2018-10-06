@@ -202,3 +202,5 @@ document.getElementsByClassName('gelap')[0].classList.remove('active')
 &lt;/div&gt;
 &lt;div class="gelap"/&gt;
 </pre>
+<h2>License</h2>
+<p>Push Notifikasi Material Design is licensed under the MIT License.</p>
