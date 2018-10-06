@@ -162,7 +162,8 @@ a.donasi-dong {
      z-index:98;
 }
 </code></pre>
-<p>after that, enter the following javascript code</p>
+<h4
+<p>after that enter the following javascript code</p>
 <pre>
 /*!
 => Javascript - Push Notification Material Design V 1.0
@@ -181,4 +182,23 @@ document.getElementsByClassName('gelap')[0].classList.remove('active')
 
 },8000)
 
+</pre>
+<p>after all the code is installed, copy and apply the following HTML code, just below the <kbd>&lt;body&gt;</kbd> tag</p>
+<pre><!--
+=&gt; HTML - Push Notification Material Design V 1.0
+=&gt; Copyright: 2018 CodePelajar
+=&gt; Licensed under MIT | https://github.com/codepelajar/codepelajar/blob/master/LICENSE
+-->
+
+&lt;div id='infoPelajarjo' class='animated'&gt;
+   &lt;div class="infoPelajarwrap-pelajar"&gt;
+      &lt;h2&gt;Notifications&lt;/h2&gt;
+   &lt;/div&gt;
+   &lt;p class="pesan-singkat"&gt;Halo Sobat Pelajar, Jangan lupa untuk klik Follow akun Sosial Media kita yaa dan Jangan Sampai ketinggalan update berita terbaru di &lt;a class="pelajar-aktif" href="https://jalanpelajar.com/"&gt;JalanPelajar.com&lt;/a&gt;&lt;/p&gt;
+   &lt;a class="donasi-dong" href="#" title="Donasi Pengembang"&gt;Donasi&lt;/a&gt;
+   &lt;a class="donasi-dong" href="#" title="Follow Instagram"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;
+   &lt;a class="donasi-dong" href="#" title="Subscribe Youtube"&gt;&lt;i class="fa fa-youtube-square"&gt;&lt;/i&gt; &lt;/a&gt;
+   &lt;a class="donasi-dong" href="#" title="Follow Fanspage"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="gelap"/&gt;
 </pre>
