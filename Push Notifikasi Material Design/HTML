@@ -1,0 +1,11 @@
+<div id='infoPelajarjo' class='animated'>
+   <div class="infoPelajarwrap-pelajar">
+      <h2>Notifications</h2>
+   </div>
+   <p class="pesan-singkat">Halo Sobat Pelajar, Jangan lupa untuk klik Follow akun Sosial Media kita yaa dan Jangan Sampai ketinggalan update berita terbaru di <a class="pelajar-aktif" href="https://jalanpelajar.com/">JalanPelajar.com</a></p>
+   <a class="donasi-dong" href="#" title="Donasi Pengembang">Donasi</a>
+   <a class="donasi-dong" href="#" title="Follow Instagram"><i class="fa fa-instagram"></i></a>
+   <a class="donasi-dong" href="#" title="Subscribe Youtube"><i class="fa fa-youtube-square"></i> </a>
+   <a class="donasi-dong" href="#" title="Follow Fanspage"><i class="fa fa-facebook"></i></a>
+</div>
+<div class="gelap"/>
