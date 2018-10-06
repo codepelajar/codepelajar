@@ -184,12 +184,7 @@ document.getElementsByClassName('gelap')[0].classList.remove('active')
 
 </pre>
 <p>after all the code is installed, copy and apply the following HTML code, just below the <kbd>&lt;body&gt;</kbd> tag</p>
-<pre><!--
-=&gt; HTML - Push Notification Material Design V 1.0
-=&gt; Copyright: 2018 CodePelajar
-=&gt; Licensed under MIT | https://github.com/codepelajar/codepelajar/blob/master/LICENSE
--->
-
+<pre>
 &lt;div id='infoPelajarjo' class='animated'&gt;
    &lt;div class="infoPelajarwrap-pelajar"&gt;
       &lt;h2&gt;Notifications&lt;/h2&gt;
