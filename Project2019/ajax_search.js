@@ -161,7 +161,7 @@ function(e, t) {
                 i = r.left,
                 a = r.width,
                 o = r.height;
-            u(X, J + "-float"), X.style.cssText = "background-color:" + $("background-color") + ";color:" + $("color") + ";position:fixed;z-index:9999;top:15%px;left:13%px;width:74%px;max-height:" + (e.innerHeight - n - o) + "px;overflow:auto;", v(X, t && t.type || "fit", [r])
+            u(X, J + "-float"), X.style.cssText = "background-color:" + $("background-color") + ";color:" + $("color") + ";position:fixed;z-index:9999;top:15%;left:13%;width:74%;max-height:" + (e.innerHeight - n - o) + "px;overflow:auto;", v(X, t && t.type || "fit", [r])
         }
     }
 
