@@ -1,5 +1,4 @@
-
- var Base64 = {
+var Base64 = {
     _keyStr: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
     encode: function (input) {
         var output = "";
@@ -126,11 +125,8 @@ function auto_safeconvert() {
       "https://www.temanima.me/2018/12/what-is-doujinshi.html",
       "https://www.temanima.me/2019/02/what-is-comiket.html",
       "https://www.temanima.me/2019/01/comiket-survey-reveals-foreign-visitors.html",
-     "https://www.temanima.me/2019/01/the-basics-of-anime-from-z.html",
-     "https://www.temanima.me/2019/01/doujinshi-as-unexampled-visual.html",
-     "https://www.temanima.me/2019/01/doujinshi-platform-for-creative-freedom.html",
-     "https://www.temanima.me/2018/12/comiket-98-in-2020-to-be-held-during.html",
-     "https://www.temanima.me/2018/12/comiket-94-fate-series-holds-doujin.html",
+      "https://www.temanima.me/2019/01/the-basics-of-anime-from-z.html",
+      "masukan url postingan blog safelink kamu disini",
     ];
     /* Jika ingin menambah postingan, copas saja */
 
