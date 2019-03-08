@@ -123,9 +123,14 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      "https://safeelife.blogspot.com/2019/02/camilan-praktis-dan-tinggi-protein.html",
-      "https://safeelife.blogspot.com/2019/02/4-makanan-penurun-berat-badan.html",
-      "https://safeelife.blogspot.com/2019/02/3-saran-agar-badanmu-selalu-dalam.html",
+      "https://www.temanima.me/2018/12/what-is-doujinshi.html",
+      "https://www.temanima.me/2019/02/what-is-comiket.html",
+      "https://www.temanima.me/2019/01/comiket-survey-reveals-foreign-visitors.html",
+     "https://www.temanima.me/2019/01/the-basics-of-anime-from-z.html",
+     "https://www.temanima.me/2019/01/doujinshi-as-unexampled-visual.html",
+     "https://www.temanima.me/2019/01/doujinshi-platform-for-creative-freedom.html",
+     "https://www.temanima.me/2018/12/comiket-98-in-2020-to-be-held-during.html",
+     "https://www.temanima.me/2018/12/comiket-94-fate-series-holds-doujin.html",
     ];
     /* Jika ingin menambah postingan, copas saja */
 
