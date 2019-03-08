@@ -122,11 +122,10 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      "https://www.temanima.me/2018/12/what-is-doujinshi.html",
-      "https://www.temanima.me/2019/02/what-is-comiket.html",
-      "https://www.temanima.me/2019/01/comiket-survey-reveals-foreign-visitors.html",
-      "https://www.temanima.me/2019/01/the-basics-of-anime-from-z.html",
-      "masukan url postingan blog safelink kamu disini",
+      "http://www.temanima.me/2018/12/what-is-doujinshi.html",
+      "http://www.temanima.me/2019/02/what-is-comiket.html",
+      "http://www.temanima.me/2019/01/comiket-survey-reveals-foreign-visitors.html",
+      "http://www.temanima.me/2019/01/the-basics-of-anime-from-z.html",
     ];
     /* Jika ingin menambah postingan, copas saja */
 
